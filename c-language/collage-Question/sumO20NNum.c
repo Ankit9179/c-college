@@ -8,7 +8,7 @@ int main()
         if (i % 2 != 0)
         {
             sum += i;
-            printf("%d\n", i); // numbers printing
+            printf("%d\n", i); // odd numbers printing
         }
     }
 
