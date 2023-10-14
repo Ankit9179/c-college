@@ -1,4 +1,4 @@
-// some of 20 first natural num
+// some of 20 first natural odd nums
 #include <stdio.h>
 int main()
 {
