@@ -1,1 +1,4 @@
-        printf("multiply all num in the array", newNum);
+ else
+        {
+            printf("there is not any palindrome numbet ");
+        }

@@ -6,7 +6,7 @@ int main()
 {
     int newNum = 1;
     int arr[] = {3, 5, 6, 7, 8};             // array declaration
-    int size = sizeof(arr) / sizeof(arr[0]); // size of the arrat = 5
+    int size = sizeof(arr) / sizeof(arr[0]); // size of the array = 5
 
     for (int i = 0; i < size; i++)
     {
