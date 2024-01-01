@@ -39,7 +39,7 @@ int main()
     forth->data = 66;
     forth->next = NULL;
 
-    //
+    // data printing function call
     traversLinkedList(head);
     return 0;
 }
